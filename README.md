@@ -1,3 +1,3 @@
 # ManejoDa
 
-Justo por college work 
+Justo for college work 
